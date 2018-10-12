@@ -1,7 +1,5 @@
 package mealtracker;
 
-import mealtracker.Category;
-
 import java.util.ArrayList;
 import java.util.List;
 
